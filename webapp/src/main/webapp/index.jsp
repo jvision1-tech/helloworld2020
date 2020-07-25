@@ -5,6 +5,6 @@
 <h1> Good job Coker on learning Devops</h1>
 <h1> Good job Coker on learning Devops</h1>
 <h1> Good job Coker on learning Devops</h1>
-<h1> Good job Coker on learning Devops</h1>
+<h1> 6 figures in the making </h1>
 <h1> Good job Coker on learning jenkins and github</h1>
 <h1> loving my wife and learning devops to make more money to takecare of my wife</h1>
