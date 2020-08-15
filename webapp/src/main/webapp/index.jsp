@@ -18,6 +18,7 @@
 <head> 
 	<meta charset="utf-8">
 <link href="images/favicon1.ico" rel="shortcut icon" type="image/x-icon" />
+<link href="images/favicon1.ico" rel="shortcut icon" type="image/x-icon" />
 	 
           <title>
             Linux a\nd DevOps Training      </title>
