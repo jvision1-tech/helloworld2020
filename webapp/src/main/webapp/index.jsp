@@ -21,7 +21,7 @@
 <link href="images/favicon1.ico" rel="shortcut icon" type="image/x-icon" />
 	 
           <title>
-            Linux a\nd DevOps Training      </title>
+            Linux aandd DevOps Training      </title>
      
       <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
